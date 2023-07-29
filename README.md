@@ -4,19 +4,23 @@ I'm Bryan, a self-taught full stack developer, interested in Javascript, Node.js
 
 #### Languages:
 
-<img alt="JavaScript" title="JavaScript" height="36" width="36" src="https://cdn.simpleicons.org/javascript">
-<img alt="Node.js" title="Node.js" height="36" width="36" src="https://cdn.simpleicons.org/node.js">
-<img alt="HTML5" title="HTML5" height="36" width="36" src="https://cdn.simpleicons.org/html5">
-<img alt="CSS3" title="CSS3" height="36" width="36" src="https://cdn.simpleicons.org/css3">
-<img alt="React" title="React" height="36" width="36" src="https://cdn.simpleicons.org/react">
-<img alt="Sass" title="Sass" height="36" width="36" src="https://cdn.simpleicons.org/sass">
-<img alt="Express" title="Express" height="36" width="36" src="https://cdn.simpleicons.org/express">
-<img alt="MongoDB" title="MongoDB" height="36" width="36" src="https://cdn.simpleicons.org/mongodb">
-<img alt="PHP" title="PHP" height="36" width="36" src="https://cdn.simpleicons.org/php">
-<img alt="MySQL" title="MySQL" height="36" width="36" src="https://cdn.simpleicons.org/mysql">
+<p style="float: left">
+  <img alt="JavaScript" title="JavaScript" height="36" width="36" src="https://cdn.simpleicons.org/javascript">
+  <img alt="Node.js" title="Node.js" height="36" width="36" src="https://cdn.simpleicons.org/node.js">
+  <img alt="HTML5" title="HTML5" height="36" width="36" src="https://cdn.simpleicons.org/html5">
+  <img alt="CSS3" title="CSS3" height="36" width="36" src="https://cdn.simpleicons.org/css3">
+  <img alt="React" title="React" height="36" width="36" src="https://cdn.simpleicons.org/react">
+  <img alt="Sass" title="Sass" height="36" width="36" src="https://cdn.simpleicons.org/sass">
+  <img alt="Express" title="Express" height="36" width="36" src="https://cdn.simpleicons.org/express">
+  <img alt="MongoDB" title="MongoDB" height="36" width="36" src="https://cdn.simpleicons.org/mongodb">
+  <img alt="PHP" title="PHP" height="36" width="36" src="https://cdn.simpleicons.org/php">
+  <img alt="MySQL" title="MySQL" height="36" width="36" src="https://cdn.simpleicons.org/mysql">
+</p>
 
 #### Links:
 
-<a href="https://www.linkedin.com/in/bryanlown/" target="_blank">
-  <img alt="LinkedIn" title="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin"></a>
-</a>
+<p style="float: none">
+  <a href="https://www.linkedin.com/in/bryanlown/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin"></a>
+  </a>
+</p>
