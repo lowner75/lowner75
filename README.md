@@ -1,6 +1,6 @@
 ### Hello World,
 
-I'm Bryan, a self-taught full stack developer, interested in Javascript, Node.js, Express, and MongoDB. Before becoming a full stack JavaScript developer I was a LAMP stack developer with a focus on PHP and MySQL. More recently I've begun using React Native for Andoird and iOS app development. Other languages I've dabbled with include C, whilst doing Harvard's CS50 course, and Python, which I completed a 4-month software engineering course in. TEST
+I'm Bryan, a self-taught full stack developer, interested in Javascript, Node.js, Express, and MongoDB. Before becoming a full stack JavaScript developer I was a LAMP stack developer with a focus on PHP and MySQL. More recently I've begun using React Native for Andoird and iOS app development. Other languages I've dabbled with include C, whilst doing Harvard's CS50 course, and Python, which I completed a 4-month software engineering course in.
 
 #### Languages:
 
