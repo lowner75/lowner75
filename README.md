@@ -4,19 +4,19 @@ I'm Bryan, a self-taught full stack developer, interested in Javascript, Node.js
 
 #### Languages:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<img alt="JavaScript" title="JavaScript" height="36" width="36" src="https://cdn.simpleicons.org/javascript">
+<img alt="Node.js" title="Node.js" height="36" width="36" src="https://cdn.simpleicons.org/node.js">
+<img alt="HTML5" title="HTML5" height="36" width="36" src="https://cdn.simpleicons.org/html5">
+<img alt="CSS3" title="CSS3" height="36" width="36" src="https://cdn.simpleicons.org/css3">
+<img alt="React" title="React" height="36" width="36" src="https://cdn.simpleicons.org/react">
+<img alt="Sass" title="Sass" height="36" width="36" src="https://cdn.simpleicons.org/sass">
+<img alt="Express" title="Express" height="36" width="36" src="https://cdn.simpleicons.org/express">
+<img alt="MongoDB" title="MongoDB" height="36" width="36" src="https://cdn.simpleicons.org/mongodb">
+<img alt="PHP" title="PHP" height="36" width="36" src="https://cdn.simpleicons.org/php">
+<img alt="MySQL" title="MySQL" height="36" width="36" src="https://cdn.simpleicons.org/mysql">
 
 #### Links:
 
-<a href="https://www.linkedin.com/in/bryanlown/">
-  <img align="left" alt="Bryan Lown's LinkedIn Profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank" />
+<a href="https://www.linkedin.com/in/bryanlown/" target="_blank">
+  <img alt="LinkedIn" title="LinkedIn" height="36" width="36" src="https://cdn.simpleicons.org/linkedin"></a>
 </a>
